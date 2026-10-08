@@ -1,0 +1,66 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/builtins.o",
+      "src/builtins.c"
+    ],
+    "directory": "/home/jgr0sz/projects/quetzal",
+    "file": "/home/jgr0sz/projects/quetzal/src/builtins.c",
+    "output": "/home/jgr0sz/projects/quetzal/src/builtins.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/executor.o",
+      "src/executor.c"
+    ],
+    "directory": "/home/jgr0sz/projects/quetzal",
+    "file": "/home/jgr0sz/projects/quetzal/src/executor.c",
+    "output": "/home/jgr0sz/projects/quetzal/src/executor.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/lexer.o",
+      "src/lexer.c"
+    ],
+    "directory": "/home/jgr0sz/projects/quetzal",
+    "file": "/home/jgr0sz/projects/quetzal/src/lexer.c",
+    "output": "/home/jgr0sz/projects/quetzal/src/lexer.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/jgr0sz/projects/quetzal",
+    "file": "/home/jgr0sz/projects/quetzal/src/main.c",
+    "output": "/home/jgr0sz/projects/quetzal/src/main.o"
+  }
+]
